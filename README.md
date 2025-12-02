@@ -12,19 +12,32 @@ You can access all articles here:
 
 ## 📄 List of Articles
 
-1. **Article 1**
-   [Computers and Electronics in Agriculture](https://drive.google.com/file/d/126jyx3lWSUKbVCA3r16Jt9BCSLm7aOwf/view?usp=sharing)
+1.  **Article 1**
+    [Improving crop production usingan agro‑deep learning framework in precisionagriculture](https://drive.google.com/file/d/1tsoqYflBku4L2cSGq5nN-n5Cm9QaQZQk/view?usp=drive_link)
+    
+    🌐 Translated Version: *[CLICK ME](https://docs.google.com/document/d/1dWeoRHdRqBW0_EoU7OdZmorBMxnYnWpDC-W5jod9PK8/edit?usp=drive_link)*
 
-2. **Article 2**
-   [Deep learning for smart agriculture: Concepts, tools, applications,and opportunities](https://drive.google.com/file/d/1q8g-JV4Hj2nz_Ka5BR5sKKprBsernpE2/view?usp=sharing)
+2.  **Article 2**
+    [Crop yield prediction through machine learning: A path towards
+sustainable agriculture and climate resilience in Saudi Arabia](https://drive.google.com/file/d/1TpaHvvPBaJjXyd7T8S6u0jXGLDt7WgUh/view?usp=drive_link)
+    
+    🌐 Translated Version: *[CLICK ME](https://docs.google.com/document/d/1wd1nLtEmM6Dmes53J2YaNzFjvllrN6W6I57wPKA6C58/edit?usp=drive_link)*
 
-3. **Article 3**
-   [Artificial Intelligence for Sustainable Agriculture: A Comprehensive Review of AI-Driven Technologies in Crop Production](https://drive.google.com/file/d/1zjTw03SchAxdmLATBbihM_hAZTtZEJDF/view?usp=sharing)
+3.  **Article 3**
+    [Predicting Potato Crop Yield with Machine Learning
+and Deep Learning for Sustainable Agriculture](https://drive.google.com/file/d/1tk6mbwlELBd63qVEB3K3zCqaHQIUmUVm/view?usp=drive_link)
+    
+    🌐 Translated Version: *[CLICK ME](https://docs.google.com/document/d/14MfBZPOgJVM-cLYJcyo2S_A9BfLcPGI4-XVNyUIm6E0/edit?usp=drive_link)*
 
-4. **Article 4**
-   [Intelligent agriculture: deep learning in UAV-based remote sensing imagery for crop diseases and pests detection](https://drive.google.com/file/d/15nIAHRx5kdxkgmeg9sFW5UaAgSxAmV7S/view?usp=sharing)
+4.  **Article 4**
+    [Crop yield prediction using machine learning: A systematic literature review](https://drive.google.com/file/d/126jyx3lWSUKbVCA3r16Jt9BCSLm7aOwf/view?usp=drive_link)
+    
+    🌐 Translated Version: *[CLICK ME](https://docs.google.com/document/d/1WT_Q6s4fPvdD6TSQeleBlTDAtU07VbWfU_SeDATIsmo/edit?usp=drive_link)*
 
-5. **Article 5**
-   [A bibliometric review of deep learning in crop monitoring: trends, challenges, and future perspectives](https://drive.google.com/file/d/1v6VhXW56a9EbxFQCj1nhsuCJUDBN8b8z/view?usp=sharing)
+5.  **Article 5**
+    [Artificial Intelligence for Sustainable Agriculture: A Comprehensive
+Review of AI-Driven Technologies in Crop Production](https://drive.google.com/file/d/1zjTw03SchAxdmLATBbihM_hAZTtZEJDF/view?usp=drive_link)
+    
+    🌐 Translated Version: *[CLICK ME](https://docs.google.com/document/d/11KuTD_E-pcsMAal8kzS112J5-fkcgkXiRje_rLjPfQw/edit?usp=drive_link)*
 
 ---
