@@ -6,7 +6,7 @@ This directory contains a curated set of articles related to **Artificial Intell
 
 You can access all articles here:
 
-🔗 **Google Drive:** [Drive Folder](https://drive.google.com/drive/folders/10jqSvJXw507Zfpg8WiX6_wE3olOyDr5o)
+🔗 **Google Drive:** [Drive Folder](https://drive.google.com/drive/folders/10jqSvJXw507Zfpg8WiX6_wE3olOyDr5o?usp=sharing)
 
 ---
 
@@ -39,5 +39,15 @@ and Deep Learning for Sustainable Agriculture](https://drive.google.com/file/d/1
 Review of AI-Driven Technologies in Crop Production](https://drive.google.com/file/d/1zjTw03SchAxdmLATBbihM_hAZTtZEJDF/view?usp=drive_link)
     
     🌐 Translated Version: *[CLICK ME](https://docs.google.com/document/d/11KuTD_E-pcsMAal8kzS112J5-fkcgkXiRje_rLjPfQw/edit?usp=drive_link)*
+
+---
+
+## Remote jobs
+
+**Some remote jobs for application:** :
+    [Click me](https://docs.google.com/document/d/e/2PACX-1vRPPOWXwu2vOyIUXj0_99SlmemiopgDDsRQvwQxiWzVTiOZnzTwFrE-2o1rFYYxWpmhu0lQQ9La_lDH/pub)
+
+**How can an Iranian engineer get a remote job without rejection?** : 
+[Click me](https://docs.google.com/document/d/e/2PACX-1vTH5b3L_0VQvcCFYiC0Xnb68rHdZxNxylrZkkqs12NrlrqE0WSr7MeNRWLnnCAUqryb-hNze1AoGBK8/pub)
 
 ---
