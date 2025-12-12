@@ -51,3 +51,6 @@ Review of AI-Driven Technologies in Crop Production](https://drive.google.com/fi
 [Click me](https://docs.google.com/document/d/e/2PACX-1vTH5b3L_0VQvcCFYiC0Xnb68rHdZxNxylrZkkqs12NrlrqE0WSr7MeNRWLnnCAUqryb-hNze1AoGBK8/pub)
 
 ---
+
+### Anwer to AI questions
+**Link to google docs:** [Click me](https://docs.google.com/document/d/e/2PACX-1vSxplicfxXob1uyf6e0HA0tag9NTO288h0PQnMqHfu0ODxSuCYUsWFb-KIySxmNNgDeRvCsTPYQqLzs/pub)
